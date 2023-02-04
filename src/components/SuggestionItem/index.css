@@ -1,0 +1,16 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.suggestion {
+  font-family: roboto;
+  font-size: 15px;
+  color: black;
+  font-weight: 500;
+}
+.arrow-img {
+  height: 20;
+  width: 20px;
+}

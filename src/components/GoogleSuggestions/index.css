@@ -1,0 +1,29 @@
+.app-bg-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.google-card {
+  display: flex;
+  flex-direction: column;
+}
+.search-img {
+  height: 20px;
+  width: 20px;
+}
+.searchIcon-input-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+.image {
+  height: 100px;
+  width: 290px;
+}
+.lists-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
